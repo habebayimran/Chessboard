@@ -1,0 +1,25 @@
+body{
+    height: 800px;
+    width: 800px;
+    background-color: white;
+    border: 10px solid grey;
+}
+.row{
+    height: 800px;
+    width: 800px;
+    background-color: white;
+    color: aqua;
+    font-size: 70px;
+    text-align: center;
+}
+.black{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float: left;
+}
+.white{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
